@@ -50,12 +50,12 @@ In the intial data preparation phase, we performed the following tasks,
 - Average shipping days vs review score
 
 ## Dashboards
- - Power Bi
+  Power Bi
    ![dashboard power bi](https://github.com/user-attachments/assets/4755d3b9-1351-4cc9-9b97-a2ef2705dd1a)
-- Tableau
+ Tableau
   ![Screenshot 2024-10-25 223831](https://github.com/user-attachments/assets/abbe578a-d765-48dd-bda0-b1602ffc8e37)
   ![tableau dashboard](https://github.com/user-attachments/assets/787cd404-4aaf-45de-afdb-c7b229bb47c9)
-- Excel
+Excel
    ![dashboard excel](https://github.com/user-attachments/assets/933755e1-3df6-4fe1-b915-32b2fa1b1bee)
 
  ### Insights
