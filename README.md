@@ -2,7 +2,13 @@
 
 ## Table of content
 - [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data cleaning/ Preparation](#data-cleaning)
+- [KPI'S](#kpi's)
+- [Insights](#insights)
 - [Recommendations](#recommendations)
+- [Conclusions](#conclusions)
 
 
 ## Project Overview
