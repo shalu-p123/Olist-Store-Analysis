@@ -49,6 +49,15 @@ In the intial data preparation phase, we performed the following tasks,
 - Average price and payment value of sao paulo city
 - Average shipping days vs review score
 
+## Dashboards
+ - Power Bi
+   ![dashboard power bi](https://github.com/user-attachments/assets/4755d3b9-1351-4cc9-9b97-a2ef2705dd1a)
+- Tableau
+  ![Screenshot 2024-10-25 223831](https://github.com/user-attachments/assets/abbe578a-d765-48dd-bda0-b1602ffc8e37)
+  ![tableau dashboard](https://github.com/user-attachments/assets/787cd404-4aaf-45de-afdb-c7b229bb47c9)
+- Excel
+   ![dashboard excel](https://github.com/user-attachments/assets/933755e1-3df6-4fe1-b915-32b2fa1b1bee)
+
  ### Insights
 - According to the data, Olist E-commerce has about 99,440 orders. With about 89,940 orders being delivered, the company has a 90% delivery success rate. 
 - Their average product rating is 4.09 stars, with product categories going as high as 4.67 stars and as low as 2.5 stars. 
