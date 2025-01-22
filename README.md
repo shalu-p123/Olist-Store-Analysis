@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools](#tools)
-- [Data cleaning/ Preparation](#data-cleaning)
+- [Data cleaning/ Preparation](#data-cleaning/preparation)
 - [KPI'S](#kpi's)
 - [Insights](#insights)
 - [Recommendations](#recommendations)
